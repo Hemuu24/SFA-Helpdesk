@@ -6,7 +6,7 @@ const config = {
     },
     // Production (deployed)
     production: {
-        apiBaseUrl: 'https://sfa-helpdesk-backend.onrender.com/' 
+        apiBaseUrl: 'https://sfa-helpdesk-backend.onrender.com' 
     }
 };
 
