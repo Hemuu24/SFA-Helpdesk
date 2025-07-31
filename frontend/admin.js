@@ -20,7 +20,8 @@ function showCustomModal(message, callback) {
 
 // Function to handle redirection
 function redirectToLogin() {
-    window.location.href = 'login.html';
+    window.location.href = 'index.html';
+
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
